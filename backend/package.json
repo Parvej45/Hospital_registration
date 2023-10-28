@@ -7,7 +7,7 @@
     "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nikhil Kushwaha",
+  "author": "Parverj Alam",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
